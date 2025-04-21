@@ -1,5 +1,4 @@
 <h1 align="center"> Bonjurică👋</h1>
-<h3 align="center">I'm basically a shawarma with everything – chaotic, delicious, and slightly overwhelming.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=katakuna1&label=Profile%20views&color=0e75b6&style=flat" alt="katakuna1" /> </p>
 
