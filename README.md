@@ -5,20 +5,21 @@
 
 ###
 
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:alexionutn@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Mail" />
-  </a>
-  <a href="https://alexionut.ro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=linktree&label=&color=1de9b6&logoColor=white&style=for-the-badge" height="35" alt="Website" />
-  </a>
-</div>
+<!-- Contact -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📬%20CONTACT%20📬-4c1?style=for-the-badge&logoColor=white" alt="📬 CONTACT" /><br>
+  <a href="mailto:contact@alexionut.ro">contact@alexionut.ro</a><br>
+  <a href="https://alexionut.ro">alexionut.ro</a>
+</p>
 
 ###
 
-<!-- Tech Stack -->
-<div align="left">
+<!-- What i Use -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💻%20WHAT%20I%20USE%20💻-blue?style=for-the-badge&logoColor=white" alt="💻 WHAT I USE" />
+</p>
+
+<div align="center">
   <!-- Common stack logos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -45,19 +46,13 @@
 </div>
 
 ###
+<!-- Spotify -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20SPOTIFY-grey?style=for-the-badge" alt="🎵 SPOTIFY" />
+</p>
 
-<!-- GitHub Stats and Spotify Side-by-Side -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=katakuna1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katakuna1&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-    </td>
-    <td width="50%" align="right">
-      <a href="https://open.spotify.com/user/m5dlojxr6rnacdqo83evzx9yd" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=m5dlojxr6rnacdqo83evzx9yd&count=5&unique=true" alt="Spotify Recently Played" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://open.spotify.com/user/m5dlojxr6rnacdqo83evzx9yd" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m5dlojxr6rnacdqo83evzx9yd&count=5&unique=true" alt="Spotify Recently Played" />
+  </a>
+</div>
