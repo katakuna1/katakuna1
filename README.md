@@ -1,23 +1,16 @@
 <h2 align="center">
-  Bonjurică! 👋
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=katakuna1.katakuna1" alt="visitor badge" />
+  Bonjurică!
 </h2>
 
 ###
 
 <!-- Contact -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📬%20CONTACT%20📬-4c1?style=for-the-badge&logoColor=white" alt="📬 CONTACT" /><br>
   <a href="mailto:contact@alexionut.ro">contact@alexionut.ro</a><br>
   <a href="https://alexionut.ro">alexionut.ro</a>
 </p>
 
 ###
-
-<!-- What i Use -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💻%20WHAT%20I%20USE%20💻-blue?style=for-the-badge&logoColor=white" alt="💻 WHAT I USE" />
-</p>
 
 <div align="center">
   <!-- Common stack logos -->
@@ -46,13 +39,15 @@
 </div>
 
 ###
-<!-- Spotify -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20SPOTIFY-grey?style=for-the-badge" alt="🎵 SPOTIFY" />
-</p>
 
 <div align="center">
   <a href="https://open.spotify.com/user/m5dlojxr6rnacdqo83evzx9yd" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=m5dlojxr6rnacdqo83evzx9yd&count=5&unique=true" alt="Spotify Recently Played" />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=katakuna1.katakuna1" alt="visitor badge" />
 </div>
